@@ -1,4 +1,4 @@
-class Nux < Cask
+cask "nux" do
   desc "Native macOS terminal built with SwiftUI - calm, fast experience with AI integration"
   homepage "https://github.com/LakshBharani/nux"
   version "1.0.0"
